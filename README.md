@@ -18,19 +18,3 @@
     van alles dat deze winter op het programma staat. </p>
 </body>
 </html>
-
-
-
-body {
-    background-color: beige;
-    font-family: 'Times New Roman', Times, serif;
-}
-
-h1 {
-    color: brown;
-}
-
-p {
-    color: brown;
-    font-size: larger;
-}
